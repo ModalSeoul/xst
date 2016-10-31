@@ -59,7 +59,7 @@ static unsigned int actionfps = 30;
 static char *termname = "st-256color";
 static char *colorname[] = {
 	"#1e1e1e",
-	"#cf6a4c",
+	"#CC0066",
 	"#8f9d6a",
 	"#f9ee98",
 	"#7587a6",
@@ -67,8 +67,8 @@ static char *colorname[] = {
 	"#afc4db",
 	"#a7a7a7",
 	"#5f5a60",
-	"#cda869",
-	"#323537",
+	"#5F5A60",
+	"#5F5A61",
 	"#464b50",
 	"#838184",
 	"#c3c3c3",
